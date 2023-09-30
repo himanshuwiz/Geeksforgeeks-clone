@@ -1,2 +1,2 @@
 # Geeksforgeeks-clone
-geeksforgeeks clone made by using html, css and javascript
+geeksforgeeks clone made by using html and css
