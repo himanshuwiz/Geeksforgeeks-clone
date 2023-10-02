@@ -36,7 +36,5 @@ If you want to contribute to this project, follow these steps:
 
 Please make sure to update the README or any relevant documentation if needed.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
