@@ -1,6 +1,8 @@
 # GFG Clone
 
-This project is a clone of the GeeksforGeeks (GFG) website's main page, created using HTML and CSS. It serves as a showcase of HTML and CSS skills and includes various components such as HTML pages, cards, icons, and more.
+## Project Description
+
+This project aims to create a clone of the GeeksforGeeks website. By developing this clone, I hope to learn more about web development and enhance our skills in areas like HTML and CSS primarly this project is a clone of the GeeksforGeeks (GFG) website's main page, created using HTML and CSS.
 
 ## Technologies Used
 
